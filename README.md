@@ -1,10 +1,6 @@
 # CIFAR-10-Dataset
 * This project demonstrates the basics of machine learning using the CIFAR 10 Dataset.
 
-## Table of Contents
-* [Requirements] (#requirements)
-* [How to Use] (#how-to-use)
-
 ## Requirements
 * This project is designed to run in a VS Code terminal using a Python environment.
 
